@@ -1,0 +1,20 @@
+{
+  "name": "arr_range",
+  "version": "0.1.1",
+  "description": "array range generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukuv2/arr_range.git"
+  },
+  "keywords": [
+    "array",
+    "range",
+    "generator"
+  ],
+  "author": "kukuv2",
+  "license": "ISC"
+}
